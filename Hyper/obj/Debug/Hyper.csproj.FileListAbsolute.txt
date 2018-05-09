@@ -1,0 +1,27 @@
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\bin\Debug\Hyper.exe.config
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\bin\Debug\Hyper.exe
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\bin\Debug\Hyper.pdb
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\obj\Debug\Hyper.csprojResolveAssemblyReference.cache
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\obj\Debug\Hyper.Form1.resources
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\obj\Debug\Hyper.get_Settings.resources
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\obj\Debug\Hyper.Properties.Resources.resources
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\obj\Debug\Hyper.csproj.GenerateResource.Cache
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\obj\Debug\Hyper.exe
+c:\users\shirl\documents\visual studio 2017\Projects\Hyper\Hyper\obj\Debug\Hyper.pdb
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.csprojResolveAssemblyReference.cache
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.Form1.resources
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.Properties.Resources.resources
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.csproj.GenerateResource.cache
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.csproj.CoreCompileInputs.cache
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.exe
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.pdb
+C:\Users\elige\Programming\Hyper\Hyper\bin\Debug\Hyper.exe.config
+C:\Users\elige\Programming\Hyper\Hyper\bin\Debug\Hyper.exe.manifest
+C:\Users\elige\Programming\Hyper\Hyper\bin\Debug\Hyper.application
+C:\Users\elige\Programming\Hyper\Hyper\bin\Debug\Hyper.exe
+C:\Users\elige\Programming\Hyper\Hyper\bin\Debug\Hyper.pdb
+C:\Users\elige\Programming\Hyper\Hyper\bin\Debug\CBDN CS Library.dll
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.TrustInfo.xml
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.exe.manifest
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.application
+C:\Users\elige\Programming\Hyper\Hyper\obj\Debug\Hyper.csproj.CopyComplete
